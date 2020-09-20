@@ -15,3 +15,7 @@ Your challenge: for around 10,000 customers in the test set, you are given all b
 The error metric for this competition is the log loss.
 
 For every customer ID in the test set, for each product code, you must submit a prediction between 0 and 1 for likelihood that that customer has that product. You may NOT round your predictions to 0s and 1s.
+
+## Competition
+
+https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge
